@@ -1,6 +1,6 @@
 # DockerAPI
 
-## What this repository is for ?
+## What is this repository for ?
 This repository shows a simple example of an **ASP.NET Core API** (build with **C#**) deployed within a **Docker** container.
 
 ## How to use it locally ?
